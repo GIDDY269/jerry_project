@@ -7,7 +7,7 @@ import cv2
 import imutils
 
 # Load your trained model
-model = load_model('model\\20240916-144821-Brain_tumor_model.keras')
+model = load_model('model/20240916-144821-Brain_tumor_model.keras')
 
 def crop_imgs(img, add_pixels_value=0, img_size=(100, 100)):
     """
