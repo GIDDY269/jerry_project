@@ -1,6 +1,0 @@
-numpy
-pandas
-streamlit
-tensorflow
-opencv-python-headless
-imutils
